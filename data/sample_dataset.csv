@@ -1,1 +1,46 @@
+sales	revenue	profit_margin	customer_activity	customer_retention_rate	new_customers	inventory_level	order_fulfillment_time	marketing_spend	conversion_rate	discount_rate	return_rate	risk
+72	180	12	35	60	25	200	4	40	5	10	8	Performance Risk
+68	170	10	30	58	20	180	5	35	4	12	9	Performance Risk
+75	190	14	38	62	28	220	3	45	6	9	7	Performance Risk
+70	160	11	32	55	22	210	6	38	5	11	10	Performance Risk
+80	200	9	45	65	30	250	4	50	7	8	6	Revenue Risk
+95	260	8	55	70	35	300	3	60	9	7	5	Revenue Risk
+110	300	7	60	72	40	320	4	65	10	6	4	Revenue Risk
+105	280	6	58	68	38	310	5	62	9	5	6	Revenue Risk
+120	350	25	70	85	50	400	3	80	15	10	5	Normal
+130	370	28	75	88	55	420	2	85	16	9	4	Normal
+140	390	30	78	90	60	450	3	90	17	8	3	Normal
+150	420	32	80	92	65	470	2	95	18	7	2	Normal
+85	210	20	40	50	25	260	4	55	6	12	10	Customer Risk
+90	230	22	42	48	28	270	5	58	7	11	9	Customer Risk
+95	240	24	45	46	30	280	6	60	8	10	8	Customer Risk
+100	260	26	48	45	32	290	5	62	9	9	7	Customer Risk
+115	300	27	65	80	45	60	9	70	12	10	6	Operational Risk
+120	320	29	68	82	48	55	10	75	13	9	5	Operational Risk
+125	340	30	70	85	50	50	9	78	14	8	4	Operational Risk
+130	360	32	72	87	52	65	10	80	15	7	3	Operational Risk
+180	110	35	90	95	70	300	3	90	18	5	2	Data Quality Risk
+170	120	33	88	93	68	280	4	85	17	6	3	Data Quality Risk
+160	130	34	85	92	65	270	3	82	16	7	4	Data Quality Risk
+175	115	36	89	94	69	290	2	88	18	5	2	Data Quality Risk
+100	250	20	60	75	40	300	3	70	10	12	6	Normal
+110	270	22	65	78	45	320	4	75	11	11	5	Normal
+120	290	24	68	80	48	340	3	78	12	10	4	Normal
+130	310	26	70	82	50	360	2	80	13	9	3	Normal
+60	150	12	25	55	18	200	5	30	3	15	10	Performance Risk
+65	155	11	28	57	20	210	6	32	4	14	9	Performance Risk
+70	160	13	30	58	22	220	5	35	5	13	8	Performance Risk
+75	170	14	35	60	25	230	4	38	6	12	7	Performance Risk
+100	200	6	50	65	35	250	3	55	8	10	5	Revenue Risk
+105	220	7	55	68	38	270	4	58	9	9	6	Revenue Risk
+110	240	8	58	70	40	280	3	60	10	8	5	Revenue Risk
+115	260	9	60	72	42	290	5	62	11	7	4	Revenue Risk
+90	220	22	35	45	28	260	4	55	7	12	9	Customer Risk
+95	240	24	38	44	30	270	5	58	8	11	8	Customer Risk
+100	260	25	40	43	32	280	6	60	9	10	7	Customer Risk
+105	280	27	42	42	34	290	5	62	10	9	6	Customer Risk
+120	300	28	65	80	45	55	9	70	12	10	6	Operational Risk
+125	320	30	68	82	48	50	10	75	13	9	5	Operational Risk
+130	340	32	70	85	50	60	9	78	14	8	4	Operational Risk
+135	360	34	72	87	52	65	10	80	15	7	3	Operational Risk
 
